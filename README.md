@@ -1,7 +1,6 @@
 ### Information you need
 
-Website created with fully responsive and modular approach. It presents basic theme page with GSAP animation applied to it. 
-
+Website created with fully responsive and modular approach. It presents basic theme page with GSAP animation applied to it.
 
 ### Used technologies
 
@@ -15,3 +14,6 @@ Project is created with:
 -   GSAP GrenSock animation library
 -   Pictures and original authors are mentioned in the code. Taken from website [Pixabay](https://pixabay.com/)
 
+### Important information
+
+Project is made with SASS but due to the Github Pages not compiling the files, there is a converted CSS file attached to markup.
