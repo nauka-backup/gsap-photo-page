@@ -240,7 +240,7 @@ a {
     height: 600px;
     width: 450px;
     display: block;
-    background: url('../img/pexels-sasha-prasastika-2695391.jpg') no-repeat;
+    background: url('./pexels-sasha-prasastika-2695391-min.jpg') no-repeat;
     background-position: 50%;
     background-size: cover;
     opacity: 0;
@@ -254,7 +254,7 @@ a {
     height: 100vh;
     width: 800px;
     display: block;
-    background: url('../img/pexels-mario-cuadros-4075993-min.jpg') no-repeat;
+    background: url('./pexels-mario-cuadros-4075993-min.jpg') no-repeat;
     background-position: 50%;
     background-size: cover;
     opacity: 0;
